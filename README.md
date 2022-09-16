@@ -6,12 +6,16 @@ In this project, we aimed to design a webpage that allows users to filter for mu
 
 * Datasets:
 
-** data.js
+- data.js
 
 * Software:
 
 **JavaScript
+
 ** D3 library
+
 ** HTML
+
 ** CSS
+
 ** Bootstrap
