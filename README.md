@@ -40,7 +40,7 @@ The features of HTML page and their function of filters are shown using screen s
 2. The sensitivity of the filter to the uppercase and lower case of the entered data. additionally, if the user include a space at the end of entered data there will be no data shown on the table.
 
 <img width="1440" alt="Screen Shot 2022-09-15 at 9 49 03 PM" src="https://user-images.githubusercontent.com/108313440/190539126-39f3222c-7ef2-4e0a-aa62-296e4a784596.png">
-244-62d04a46-baa5-401a-95d7-b28ba512962f.png">
+
 
 ### Recommendation
 Recommendation
